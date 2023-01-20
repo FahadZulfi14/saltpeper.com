@@ -1,0 +1,132 @@
+body {
+    background-color: #000000;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: white;
+}
+
+.bord {
+    border-bottom: 1px solid red !important;
+}
+
+
+
+.nav-item a {
+    font: 17px philosopher;
+    color: white !important;
+}
+
+.nav-item a:hover {
+    color: red !important;
+}
+
+.navbar-nav li {
+    padding: 0px 15px;
+    margin-top: 20px;
+}
+
+.btntop {
+    background-color: #ed1c24 !important;
+    font-size: 14px;
+    padding: 8px 50px;
+    margin: 0px 0px;
+
+}
+
+.container1st {
+    border-bottom: 1px solid #ED1C24;
+    height: 350px;
+}
+
+.container {
+    margin-top: 55px;
+    max-width: fit-content;
+}
+
+.weltext h3 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Sans-serif;
+    font-size: 100px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+
+}
+
+
+
+
+.wtext img {
+    margin-left: 35%;
+}
+
+
+h3 {
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.brands-subtitle {
+    text-align: center;
+}
+
+
+
+.row {
+    width: 90%;
+    margin: 0px 60px;
+
+
+
+}
+
+.my-card img {
+    margin: 0px 40px;
+    width: 293px;
+    height: 196px;
+
+}
+
+.franchises1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
+
+.franchises2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 400px;
+}
+
+#franchtext {
+    color: #ED1C24;
+    font-family: Sans-serif;
+    font-size: 47px;
+
+}
+
+.location{
+    
+    margin-top: 40px;
+    width: 390px;
+}
+
+.card-img-overlay h5 {
+    padding-top: 130px;
+    padding-left: auto;
+    text-align: center;
+    
+}
+
+
+.card-img-overlay p {
+    text-align: center;
+    
+}
